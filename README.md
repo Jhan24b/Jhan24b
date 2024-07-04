@@ -16,8 +16,9 @@ With over 3 years of experience in Java development for freelance and university
   
 
 
-- **Programming Languages**: Java, Python
-- **Web Development**: React.js, HTML, CSS, JavaScript
+- **Programming Languages**: Java, Python <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+- **Web Development**: React.js <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+}" />, HTML <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />, CSS <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />, JavaScript <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
 - **Mobile Development**: Flutter
 - **Database Management**: SQL, NoSQL
 - **UX/UI Design**
