@@ -11,7 +11,9 @@ Hello! I'm Anthony Torres, an enthusiastic and energetic Junior Software Develop
 With over 3 years of experience in Java development for freelance and university projects, I've successfully developed and implemented a management system for a mini-market. I also have 1 year of experience in web development with React.js and another year in providing technological infrastructure consulting and analysis.
 
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhan24b)](https://github.com/anuraghazra/github-readme-stats)
+[![Jhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhan24b)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhan24b&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Programming Languages**: Java, Python
 - **Web Development**: React.js, HTML, CSS, JavaScript
