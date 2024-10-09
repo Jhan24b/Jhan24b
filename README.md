@@ -12,8 +12,9 @@ With over 3 years of experience in Java development for freelance and university
 
 ## Skills
 
-  [![Jhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhan24b)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhan24b&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  ![Jhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhan24b&show_icons=true&theme=radical)
+
+  ![Jhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhan24b&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhan24b&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
