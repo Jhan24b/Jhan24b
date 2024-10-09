@@ -15,8 +15,6 @@ With over 3 years of experience in Java development for freelance and university
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhan24b&layout=donut)](https://github.com/anuraghazra/github-readme-stats)   ![Jhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhan24b&show_icons=true&theme=radical)
 
-[![Jhans's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jhan24b)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 - **Programming Languages**: Java, Python <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
