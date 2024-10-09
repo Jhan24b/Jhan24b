@@ -5,7 +5,7 @@
 # Welcome to My GitHub Page!
 
 ## About Me
-Hello! I'm Anthony Torres, an enthusiastic and energetic Junior Software Developer with a passion for creating efficient and innovative solutions. Currently in my 8th semester of Systems Engineering and Computer Science at the Technological University of Peru, I'm proud to be in the top fifth of my class and a recipient of the PRONABEC Continuity of Studies Scholarship (2022) and the UTP Academic Excellence Scholarship.
+Hello! I'm Anthony Torres, an enthusiastic and energetic Junior Software Developer with a passion for creating efficient and innovative solutions. Currently in my 9th semester of Systems Engineering and Computer Science at the Technological University of Peru, I'm proud to be in the top fifth of my class and a recipient of the PRONABEC Continuity of Studies Scholarship (2022) and the UTP Academic Excellence Scholarship.
 
 ## Experience
 With over 3 years of experience in Java development for freelance and university projects, I've successfully developed and implemented a management system for a mini-market. I also have 1 year of experience in web development with React.js and another year in providing technological infrastructure consulting and analysis.
